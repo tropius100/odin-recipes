@@ -1,0 +1,87 @@
+
+/* index */
+
+.b1 {
+    color: rgb(68, 53, 42);
+    background-color:burlywood;
+   
+}
+
+.b2 {
+    color: burlywood;
+    background-color: rgb(68, 53, 42);
+
+}
+
+.b1, 
+.b2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+
+.imgcake {
+    height: 300px;
+    width: auto;
+    
+}
+
+.imgtea {
+    height: auto;
+    width: 300px;
+}
+
+
+/* tea */ /* cupcake */
+
+.ing {
+    color:rgb(49, 49, 49);
+    background-color: rgb(247, 191, 139);
+}
+
+.ins {
+    color:rgb(49, 49, 49);
+    background-color: rgb(223, 217, 132);
+}
+
+
+.ing-h {
+    color: rgb(216, 169, 125);
+
+}
+
+.ins-h {
+    color: rgb(197, 192, 119);
+}
+
+.img-cake {
+    height: 500px;
+    width: auto;
+}
+
+
+
+
+
+/*index ,tea & cupcake */
+
+.head,
+.des {
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(112, 76, 30) ;
+}
+
+.ing, 
+.ins
+.des {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 18px;
+    font-weight: 350px;
+
+}
+
+
+
+
+
